@@ -1,0 +1,11 @@
+name: DailyReward
+version: 1.16.0
+api-version: 1.16
+main: de.redoxcraft.dailyreward.main.Main
+author: RedoxCraft
+description: none
+website: https://www.youtube.com/redoxcraft
+
+commands:
+   anmelden:
+      description: Erhalte deine Anmeldebelohnung
